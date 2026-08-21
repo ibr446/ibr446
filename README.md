@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=IbratovBunyod&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ibr446)
-[![Followers](https://img.shields.io/github/followers/MuhammadaminPulatov?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ibr446?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=ibr446&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ibr446)
+[![Followers](https://img.shields.io/github/followers/ibr446?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ibr446?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ibr446?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/ibr446?tab=repositories)
 
 <br/>
@@ -15,8 +15,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bunyodibratov@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibratov_b)
 [![Instagram CEO](https://img.shields.io/badge/Instagram%20CEO-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibratov.b_)
-
-
 
 </div>
 
@@ -58,7 +56,6 @@ superpower :  Turning ideas into working products ⚡
 
 ---
 
-
 ## 🚀 Project Portfolio
 
 <table>
@@ -74,11 +71,8 @@ superpower :  Turning ideas into working products ⚡
 Современная платформа для просмотра и поиска фильмов и сериалов. Каталог, категории, поиск и админ-панель для управления контентом.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ibr446)
@@ -94,11 +88,8 @@ superpower :  Turning ideas into working products ⚡
 Мобильное приложение для анализа еды с помощью AI. Пользователь фотографирует блюдо и получает приблизительную информацию о калориях и питательной ценности.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
 ![AI](https://img.shields.io/badge/AI-Powered-8E44AD?style=flat-square)
-
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ibr446)
@@ -114,11 +105,8 @@ superpower :  Turning ideas into working products ⚡
 Социальная сеть с пользователями, постами, авторизацией и API. Проект создан для практики полноценной Full-Stack разработки.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/ibr446)
@@ -205,7 +193,6 @@ superpower :  Turning ideas into working products ⚡
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibr446&theme=tokyonight" />
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibr446&theme=tokyonight&utcOffset=5" />
 
 </div>
@@ -213,7 +200,6 @@ superpower :  Turning ideas into working products ⚡
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibr446&theme=tokyonight" />
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibr446&theme=tokyonight" />
 
 </div>
@@ -251,13 +237,9 @@ superpower :  Turning ideas into working products ⚡
 <div align="center">
 
 <picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/ibr446/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/ibr446/output/github-contribution-grid-snake.svg">
-
-<img src="https://raw.githubusercontent.com/ibr446/ibr446/output/github-contribution-grid-snake-dark.svg">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibr446/ibr446/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibr446/ibr446/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ibr446/ibr446/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -273,6 +255,3 @@ If you like my projects, consider giving them a ⭐
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer">
-```
-#   i b r 4 4 6  
- 

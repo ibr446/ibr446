@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Ibratov%20Bunyod&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%87%BA%F0%9F%87%BF%20Tashkent%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20IoT%20%C2%B7%20Founder&descAlignY=60&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Ibratov%20Bunyod&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=38&desc=%F0%9F%87%BA%F0%9F%87%BF%20Uzbekistan%20%C2%B7%20Junior%20Full-Stack%20Developer&descAlignY=60&descSize=17" />
+
 
 <div align="center">
 

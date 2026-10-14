@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ibr446&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ibr446)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ibr446.ibr446&left_color=0d1117&right_color=58a6ff&left_text=PROFILE%20VIEWS)](https://github.com/ibr446)
 [![Followers](https://img.shields.io/github/followers/ibr446?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ibr446?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ibr446?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/ibr446?tab=repositories)
 
@@ -219,7 +219,7 @@ superpower :  Turning ideas into working products ⚡
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibr446&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E8892B&area=true&area_color=1a3a5c&radius=8" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibr446&theme=tokyonight&hide_border=true" />
 
 </div>
 

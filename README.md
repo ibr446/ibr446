@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ibr446.ibr446&left_color=0d1117&right_color=58a6ff&left_text=PROFILE%20VIEWS)](https://github.com/ibr446)
+[![Profile Views](https://hits.sh/github.com/ibr446.svg?style=for-the-badge&label=PROFILE+VIEWS&color=58a6ff&labelColor=0d1117)](https://hits.sh/github.com/ibr446/)
 [![Followers](https://img.shields.io/github/followers/ibr446?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ibr446?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ibr446?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/ibr446?tab=repositories)
 
